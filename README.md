@@ -2,3 +2,10 @@ flot-stackbars
 ==============
 
 A Flot plugin to stack bars of mixed positive and negative values
+
+Based on the stackpercent plugin by skeleton9
+
+Modified by ericliao 2013-1-29 to support stacking of positive and negative values
+
+IMPORTANT: Only tested to work properly with bar charts, for other chart types
+           please use the official stacking plugin.
