@@ -3,7 +3,7 @@ flot-stackbars
 
 A Flot plugin to stack bars of mixed positive and negative values
 
-Example url: http://ericliao.github.com/flot-stackbars/
+Example page: http://ericliao.github.com/flot-stackbars/
 
 Based on the stackpercent plugin by skeleton9
 
